@@ -1,0 +1,5 @@
+ioreg.o: ioreg.cc /usr/include/stdc-predef.h ioreg.h
+
+/usr/include/stdc-predef.h:
+
+ioreg.h:
